@@ -1,0 +1,72 @@
+[
+    {
+        "id": 23,
+        "name": "balaji",
+        "age": 19,
+        "cgpa": 7.41,
+        "branch": "computer science"
+    },
+    {
+        "id": 24,
+        "name": "gagan",
+        "age": 2,
+        "cgpa": 7,
+        "branch": "civil"
+    },
+    {
+        "id": 25,
+        "name": "abhi ram",
+        "age": 3,
+        "cgpa": 5,
+        "branch": "aiml"
+    },
+    {
+        "id": 26,
+        "name": "john",
+        "age": 19,
+        "cgpa": 7.85,
+        "branch": "electronics and communication"
+    },
+    {
+        "id": 45,
+        "name": "jack",
+        "age": 25,
+        "cgpa": 8.5,
+        "branch": "mechanical"
+    },
+    {
+        "id": 123,
+        "name": "peter",
+        "age": 19,
+        "cgpa": 7.93,
+        "branch": "elctrical and eletronics"
+    },
+    {
+        "id": 78945,
+        "name": "mark",
+        "age": 24,
+        "cgpa": 7.93,
+        "branch": "csd"
+    },
+    {
+        "id": 489,
+        "name": "sam-altomen",
+        "age": 26,
+        "cgpa": 9.5,
+        "branch": "machine learning and artifical inteligence"
+    },
+    {
+        "id": 415,
+        "name": "melon musk",
+        "age": 19,
+        "cgpa": 7.42,
+        "branch": "aero-space engineering"
+    },
+    {
+        "id": 789,
+        "name": "homi bhaba",
+        "age": 25,
+        "cgpa": 9.58,
+        "branch": "chemical engineering"
+    }
+]
